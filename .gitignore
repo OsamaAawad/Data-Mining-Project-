@@ -1,5 +1,9 @@
-# Ignore the dataset
+
+# Ignore raw datasets
 data/
+
+# Ignore processed datasets
+notebooks/data_processed/
 
 # Ignore Python virtual environment
 .venv/
